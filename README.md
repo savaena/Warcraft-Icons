@@ -44,5 +44,3 @@ Typhoon
 Ursol's Vortex
 Wild Charge
 Wrath
-Aquatic Form
-Flight Form
